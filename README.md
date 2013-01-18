@@ -1,7 +1,5 @@
-# Smyck Color Scheme
-
-This is a color scheme suitable for Terminal.app, iTerm2, Vim, gVim,
-MacVim, Textmate and Sublime Text 2.
+# Smyck Colorscheme for Vim
+This fork of [hukl's original colorscheme](https://github.com/hukl/Smyck-Color-Scheme) makes it compatible with [pathogen](https://github.com/tpope/vim-pathogen).
 
 The colors are carefully chosen and the contrasts are tuned so that it
 should not hurt the eyes even after a whole day of working.
